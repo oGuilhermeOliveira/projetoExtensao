@@ -327,6 +327,8 @@ hr{
   .sobre-nos {
     flex-direction: column;
     padding: 2rem 1rem;
+    align-items: center;
+    text-align: center;
   }
 
   #sobre-nos-title {
@@ -365,6 +367,8 @@ hr{
 
   .sobre-nos {
     padding: 2rem;
+    align-items: center;
+    text-align: center;
   }
 
   #sobre-nos-title {
@@ -374,5 +378,6 @@ hr{
   .sobre-nos img {
     width: 90%;
     height: auto;
+    margin: 0 auto;
   }
 }
